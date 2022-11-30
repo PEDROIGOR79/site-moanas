@@ -9,3 +9,17 @@ body{
     color: rgb(206, 22, 160);
     
 }
+h1{
+    font-size: 3cm;}
+    h2{
+        font-size: 1cm;
+    }
+    header{
+        min-height: 100px;
+        padding: 5px;            
+        background-color: white;
+        
+            }
+            h4{ margin-top: auto;
+                text-shadow: 2px 2px 0px black;
+            }
